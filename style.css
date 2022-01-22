@@ -1,0 +1,72 @@
+img{
+    max-width: 100%;
+}
+.banner{
+    background: url(https://blog.usecure.io/hs-fs/hubfs/Office%20workplace%20with%20laptop%20and%20smart%20phone%20on%20wood%20table.jpeg?width=800&name=Office%20workplace%20with%20laptop%20and%20smart%20phone%20on%20wood%20table.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    padding: 15%;
+}
+
+.banner h2{
+    background-color: rgba(0, 195, 255, 0.356);
+    width: 500px;
+    margin: auto;
+    border-radius: 7px;
+}
+.banner h1{
+    background-color: rgba(24, 65, 153, 0.356);
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+.about{
+    background: rgb(190, 188, 188);
+    padding: 100px;
+}
+.about p{
+    width: 70%;
+    margin: auto;
+    font-size:0 18px;
+}
+.service{
+    background: rgb(233, 231, 231);
+    padding: 100px;
+}
+.service span{
+    color: #0da4bf;
+    display: inline-block;
+    font-size: 22px;
+    padding: 10px;
+}
+.service p{
+    box-sizing: border-box;
+    padding:0 50px;
+}
+.product{
+background-color: rgb(236, 236, 236);
+padding: 50px;
+}
+
+.product img {
+    width: 25%;
+    margin: 4%;
+}
+.product p{
+    width: 65%;
+    display: inline-block;
+    
+}
+.product .list{
+    border-bottom: 1px solid rgb(153, 153, 153);
+    background: rgb(238, 230, 230);
+    padding: 8px 10px;
+}
+.footer a{
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    padding: 0 10px;
+}
